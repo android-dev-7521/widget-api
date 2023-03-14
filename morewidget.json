@@ -1,13 +1,10 @@
-[
-        
-     {
-    "widgetname": "Launcher Widget",
-    "widgeticon":"https://raw.githubusercontent.com/android-dev-7521/widget-api/main/apple.png",
-    "widgetss":"https://raw.githubusercontent.com/android-dev-7521/widget-api/main/apple.png",
-    "widgetlink":"https://raw.githubusercontent.com/android-dev-7521/widget-api/main/apple.png",
-    "widgetdiscount":"Free Widget"
-  }
-        
-    
+[ 
+         {
+    "widgetname": "Launcher iOS 16 Widget",
+    "widgeticon":"https://play-lh.googleusercontent.com/1tfwRdXXnIKFGQT5kdM-6ei41kLUEiSJiJFT7SptMk7gVFcoPSlim7N76M5O4mCkmjt2=w480-h960",
+    "widgetss":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/lock_screen_ss/launch1.png",
+    "widgetlink":"https://play.google.com/store/apps/details?id=com.dynamic.watch",
+    "widgetdiscount":"Free,New Widget"
+  } 
 ]
 
